@@ -1,8 +1,6 @@
 <img width="auto" src="./JP-github200x200.png">
 
 
-# João Paulo Moura
-
 ## Olá pessoal 👋
 Olá, sou estudante de Análise e Desenvolvimento de Sistemas, onde venho ganhando conhecimento em metodologias ágeis, arquitetura de computadores, redes, paradigmas de Orientação a Objetos, Modelos de Banco de dados e Gerenciamento de Projetos.:computer:
 
