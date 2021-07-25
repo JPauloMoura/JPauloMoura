@@ -2,7 +2,7 @@
 
 
 ## Olá pessoal 👋
-Sou o João, tenho 23 anos e moro no Piauí.<br/>
+Sou o JP, tenho 23 anos e moro no Piauí.<br/>
 Estou cursando o ultimo periodo de Análise e Desenvolvimento de Sistemas na [FPPD](http://www.fapi-pi.edu.br/).:books:<br/><br/>
 Ano passado finalizei o bootcamp Web Full-Stack da [Labenu](https://www.labenu.com.br/curso) que me deu uma quantidade enorme de conhecimento 
 e me rendeu bons frutos desde oportunidades como freelance até minha primeira oportunidade de trabalho como junior na [UnicoId-Tech](https://unico.io)
