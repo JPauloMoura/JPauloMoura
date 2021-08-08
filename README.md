@@ -13,6 +13,13 @@ que por falar nisso ta cheia de [vaga legais](https://carreiras.unico.io/#vagas)
 -  :art: &nbsp; **Font-end** : Html, Css, JavaScript, ReactJS, MateriaUI, Axios.<br/> 
 -  :gear: &nbsp; **Back-end** : Node & Typescript, Express, JWT, MySql, SqLite.<br/><br/>
 
+ <div>
+  <a href="https://github.com/JPauloMoura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPauloMoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPauloMoura&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</br>
+
 Qualquer coisa que precisar pode entra em contato comigo, vai ser muito legal poder te conhecer :blush: &nbsp; <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-JoaoPauloMoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpaulomouradev/)](https://www.linkedin.com/in/jpaulomouradev/)
 [![Gmail Badge](https://img.shields.io/badge/-JoaoPauloMoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulo.034a@gmail.com)](mailto:joaopaulo.034a@gmail.com)
