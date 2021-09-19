@@ -5,7 +5,7 @@
 Sou o JP, tenho 23 anos e moro no Piauí.<br/>
 Sou formado em Análise e Desenvolvimento de Sistemas pela [FPPD](http://www.fapi-pi.edu.br/).:books:<br/><br/>
 Ano passado finalizei o bootcamp Web Full-Stack da [Labenu](https://www.labenu.com.br/curso) que me deu uma quantidade enorme de conhecimento 
-e me rendeu bons frutos desde oportunidades como freelance até minha primeira oportunidade de trabalho como Desenvolvedo back-end junior na [UnicoId-Tech](https://unico.io)
+e me rendeu bons frutos desde oportunidades como freelance até minha primeira oportunidade de trabalho como Desenvolvedo back-end junior na [Unico-IdTech](https://unico.io)
 que por falar nisso ta cheia de [vagas legais](https://carreiras.unico.io/#vagas). <br/>
 
 :soccer: &nbsp; **Meus Hobbies** --> Curto um Futeboll, Yu-Gi-Oh Tcg, Animes e Rock.<br/>
