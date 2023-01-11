@@ -9,7 +9,7 @@ Em 2020 me formei em Análise e Desenvolvimento de Sistemas pela [FPPD](http://w
 ## :rocket: O que eu tenho de bagagem?
 - 2 anos de faculdade paralelamente com 6 meses de bootcamp.
 - 2 meses como freelance Front-end utilizando React.
-- 1 ano e 7 meses de mercado como Back-end, e contando ...
+- 2 ano e de mercado como Back-end, e contando ...
 
 <!--LINK DOS BADGES:  https://github.com/iuricode/README-template/blob/main/badges/badges.md-->
 ### :art: Font-end:
