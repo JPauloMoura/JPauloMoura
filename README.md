@@ -1,6 +1,6 @@
 <img width="auto" src="./JP-github200x200.png">
 
-## 👋 Olá! Seja super bem vindo ao eu GitHub =)!
+## 👋 Olá! Seja super bem vindo ao meu GitHub =)!
 Pra você que quer me conhecer um pouquinho, prazer! <br/>
 Sou o JP, tenho 24 anos, natural do Piauí mas atualmente estou morando em Brasília.<br/>
 Em 2020 me formei em Análise e Desenvolvimento de Sistemas pela [FPPD](http://www.fapi-pi.edu.br/):books: e no inicio de 2021 finalizei o bootcamp Web Full-Stack da [Labenu](https://www.labenu.com.br/curso) que me deu uma quantidade enorme de conhecimento e me rendeu bons frutos, desde oportunidades como freelance até minha primeira oportunidade de trabalho como Desenvolvedo back-end na [Unico-IdTech](https://unico.io) onde estou desde de janeiro de 2021, atualmente trabalhando como desenvolvedor pleno<br/>
