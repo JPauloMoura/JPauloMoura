@@ -2,14 +2,15 @@
 
 ## 👋 Olá! Seja super bem vindo ao meu GitHub =)!
 Pra você que quer me conhecer um pouquinho, prazer! <br/>
-Sou o JP, tenho 25 anos, natural do Piauí mas atualmente estou morando em Brasília.<br/>
+Sou o JP, tenho 26 anos, natural do Piauí mas atualmente estou morando em Brasília.<br/>
 Em 2020 me formei em Análise e Desenvolvimento de Sistemas pela [FPPD](http://www.fapi-pi.edu.br/):books: e no inicio de 2021 finalizei o bootcamp Web Full-Stack da [Labenu](https://www.labenu.com.br/curso) que me deu uma quantidade enorme de conhecimento e me rendeu bons frutos, desde oportunidades como freelance até minha primeira oportunidade de trabalho como Desenvolvedo back-end na [Unico-IdTech](https://unico.io) onde trabalhe até Janeiro de 2024 como desenvolvedor pleno<br/>
+Hoje atuo como desenvolvedor Golang e React na [MV Bank](https://mv.com.br/solucao/mv-bank), parte do grupo MV, focado em soluções financeiras onde sou responsáveis pelos produtos de Pix e antecipação salarial, participando de todas as etapas do desenvolvimento, desde o levantamento de requisitos até o deploy. Assumo nesse papel também responsabilidades de produto e testes, garantindo que as tarefas sejam bem definidas e documentadas.
 :soccer: &nbsp; Alguns dos meus hobbies são futeboll, Yu-Gi-Oh Tcg, assistir animes, tocar baixo e agora estou aprendendo andar de skate rsrs.<br/>
 
 ## :rocket: O que eu tenho de bagagem?
 - 2 anos de faculdade, paralelamente com 6 meses de bootcamp.
 - 2 meses como freelance Front-end utilizando React.
-- 3 anos de mercado como Back-end utilizando Golang, e contando ...
+- 4 anos de mercado como Back-end utilizando Golang, e contando ...
 
 <!--LINK DOS BADGES:  https://github.com/iuricode/README-template/blob/main/badges/badges.md-->
 ### :art: Font-end:
